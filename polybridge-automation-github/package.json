@@ -1,0 +1,13 @@
+{
+  "name": "polybridge-automation",
+  "version": "1.1.0",
+  "private": true,
+  "description": "A Codex Skill for verified Poly Bridge save design and simulation workflows",
+  "scripts": {
+    "test": "node scripts/test.cjs",
+    "help": "node scripts/polybridge.cjs help"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

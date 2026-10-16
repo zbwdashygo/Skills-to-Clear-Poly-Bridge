@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poly Bridge 自动造桥"
+  short_description: "设计桁架与斜坡桥，备份注入存档，在游戏模拟中验证并迭代通关"
+  default_prompt: "使用 $polybridge-automation 识别当前关卡、生成桥梁并在游戏中测试，修改存档前备份，按实际模拟结果迭代。"
